@@ -1,5 +1,4 @@
-// B
-//  div 3(954), B
+//  div 3(954), A
 #include <bits/stdc++.h>
 using namespace std;
 
